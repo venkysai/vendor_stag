@@ -103,6 +103,6 @@ PRODUCT_PACKAGES += \
     WellbeingPrebuilt \
     GoogleContacts \
     PrebuiltDeskClockGoogle \
-    MicroGServices \
+    GoogleServicesFramework \
     Calculator
 
